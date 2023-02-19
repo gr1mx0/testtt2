@@ -1,6 +1,6 @@
 {
     "proxies": "socks4",
-    "thread": "1000",
+    "thread": "4000",
 
     "webhook": {
         "url": "https://discord.com/api/webhooks/1070878689757233194/OAizc7KYRiLZ7EZk1htx6dIuxYmtNjkAFlQImy_n4NMCmDYc5AdHWJ7urGRe9i-4PIpm",
